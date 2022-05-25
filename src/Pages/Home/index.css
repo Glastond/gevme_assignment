@@ -1,0 +1,21 @@
+.home-page-wrapper {
+  height: calc(100vh - 80px);
+  padding: 5em;
+  background-color: #e8e5e5;
+}
+
+.home-page-wrapper h1 {
+  margin-bottom: 0.5em;
+}
+
+.datatable-button {
+  color: var(--secondary);
+  background-color: unset;
+  border: unset;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.datatable-button:nth-child(2) {
+  margin-left: 30px;
+}
